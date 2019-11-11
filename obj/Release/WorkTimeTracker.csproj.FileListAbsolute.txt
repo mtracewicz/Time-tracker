@@ -1,0 +1,15 @@
+D:\Code\C#\WorkTimeTracker\bin\Release\Resources\history.png
+D:\Code\C#\WorkTimeTracker\bin\Release\WorkTimeTracker.exe.config
+D:\Code\C#\WorkTimeTracker\bin\Release\WorkTimeTracker.exe
+D:\Code\C#\WorkTimeTracker\bin\Release\WorkTimeTracker.pdb
+D:\Code\C#\WorkTimeTracker\obj\Release\MainWindow.g.cs
+D:\Code\C#\WorkTimeTracker\obj\Release\App.g.cs
+D:\Code\C#\WorkTimeTracker\obj\Release\WorkTimeTracker_Content.g.cs
+D:\Code\C#\WorkTimeTracker\obj\Release\WorkTimeTracker_MarkupCompile.cache
+D:\Code\C#\WorkTimeTracker\obj\Release\WorkTimeTracker_MarkupCompile.lref
+D:\Code\C#\WorkTimeTracker\obj\Release\MainWindow.baml
+D:\Code\C#\WorkTimeTracker\obj\Release\WorkTimeTracker.g.resources
+D:\Code\C#\WorkTimeTracker\obj\Release\WorkTimeTracker.Properties.Resources.resources
+D:\Code\C#\WorkTimeTracker\obj\Release\WorkTimeTracker.csproj.GenerateResource.cache
+D:\Code\C#\WorkTimeTracker\obj\Release\WorkTimeTracker.exe
+D:\Code\C#\WorkTimeTracker\obj\Release\WorkTimeTracker.pdb
